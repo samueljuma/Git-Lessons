@@ -7,5 +7,5 @@ A collection of basic git commands and how they're used
 	* Run the command [**git config --list**] to confirm your configuration details
 ##### Getting started
 * Method 1: Cloning into a remote repository
-	* [create repository] (screenshots/create_remote _repo0.png) (screenshots/create_remote_repo1.png)
+	* [create repository] (screenshots/create_remote _repo0.png)
 	* 
