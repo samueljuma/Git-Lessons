@@ -11,4 +11,4 @@ A collection of basic git commands and how they're used
 	* git status 
 	* git add .
 	* git commit -m "commit-message" 
-	* git push 
+	* git push // push to master
