@@ -12,3 +12,5 @@ A collection of basic git commands and how they're used
 	* git add .
 	* git commit -m "commit-message" 
 	* git push // push to master
+* Method 2: Initialise local folder witj git init
+
